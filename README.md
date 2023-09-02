@@ -1,8 +1,7 @@
-# MealList
-a Vue/VueX application that uses free third party API with build recipe and meal search.
-While building this App I learnt how to interact with APIs,
-how to define parent and child roots in Vue.js,
-how to define layouts,
-how to build scalable files and folder structure,
-how to use Vue Composition API among other things,
-I used Tailwind CSS for the styling.
+# Vue 3 + Vite
+
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
